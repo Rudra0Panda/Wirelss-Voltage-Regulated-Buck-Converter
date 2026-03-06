@@ -3,8 +3,8 @@
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 
-const char* ssid  = "Airtel_Xtreme_2.4";
-const char* password = "B3bnpaxg@612";
+const char* ssid  = "Wifi";
+const char* password = "password";
 
 int changePWM(int pinNO, int Brightness){
   
